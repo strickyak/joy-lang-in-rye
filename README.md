@@ -1,6 +1,6 @@
 # The Joy language,
 
-## written in the python-like go-powered language https://github.com/strickyak/rye
+## written in the python-like go-powered language Rye: https://github.com/strickyak/rye
 
 A small subset using the definitions at
 https://hypercubed.github.io/joy/html/html-manual.html
